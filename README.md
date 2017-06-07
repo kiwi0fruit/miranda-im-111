@@ -11,6 +11,7 @@ Screenshots and info:
 * Russian site: [Miranda IM 111 Pack](http://miranda-im-111.tumblr.com);
 * English site: [Miranda IM 111 Pack](http://miranda-im-111-pack.tumblr.com);
 * [Other Miranda IM posts](http://kiwi0fruit.tumblr.com/tagged/miranda).
+* If sites are down or images are absent see [museum](museum).
 
 P.S.
 

@@ -8,7 +8,7 @@ Actually it's a source code for the pack but not for the Miranda IM and plugins.
 
 Screenshots and info:
 
-* Русский сайт: [Miranda IM 111 Pack](http://miranda-im-111.tumblr.com);
+* Russian site: [Miranda IM 111 Pack](http://miranda-im-111.tumblr.com);
 * English site: [Miranda IM 111 Pack](http://miranda-im-111-pack.tumblr.com);
 * [Other Miranda IM posts](http://kiwi0fruit.tumblr.com/tagged/miranda).
 

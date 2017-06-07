@@ -1,6 +1,6 @@
 # Miranda IM 111 Pack
 
-Museum for _Miranda IM 111 Pack_ source code and [latest installer](miranda_im_111.exe).
+Museum for _Miranda IM 111 Pack_ source code and [latest installer](miranda_im_111.exe) (v0.9.40.0).
 
 The installer has an option of creating a folder with source code. You can also open **miranda_im_111.exe** with 7zip and find source code in `$DESKTOP\Miranda IM 111 Pack Source Code` folder.
 

@@ -12,4 +12,4 @@ Screenshots and info:
 
 P.S.
 
-I guess it can be ported to [Miranda NG](https://github.com/miranda-ng) that may be useful Jabber client that supports encryption and GPG. But I have no intension to do so.
+I guess it can be ported to [Miranda NG](https://github.com/miranda-ng) (that may be useful Jabber client that supports encryption and GPG). But I have no intension to do so.

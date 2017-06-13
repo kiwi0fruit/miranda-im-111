@@ -15,4 +15,4 @@ Screenshots and info:
 
 P.S.
 
-I guess it can be ported to [Miranda NG](https://github.com/miranda-ng/miranda-ng) or the current version of [Miranda IM](http://www.miranda-im.org/) (they may be useful Jabber clients that support encryption and GPG - check it yourself). But I have no intension to do so.
+I guess it can be ported to [Miranda NG](https://github.com/miranda-ng/miranda-ng) or the current version of [Miranda IM](http://www.miranda-im.org/) (they might be useful Jabber clients that support encryption and GPG - check it yourself). But I have no intension to do so.
